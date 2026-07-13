@@ -1,0 +1,32 @@
+
+ESTADO COMPLETO DE AUDITORÍA — v009 (corte por límite de Perplexity)
+
+- Versión base del grafo: v158
+- Eventos totales en el grafo: 903
+- Eventos auditados hasta ahora (aprox.): 58
+- Eventos pendientes (aprox.): 845
+
+DECISIONES CONSOLIDADAS (EXTRACTO CLAVE)
+
+1) EXCLUIR — CASO AJENO / JURISPRUDENCIA (no forman parte de la cronología personal de Iñaki Loroño):
+   EVT-ORD-0740, EVT-ORD-0741, EVT-ORD-0746, EVT-ORD-0747, EVT-ORD-0748, EVT-ORD-0867, EVT-ORD-0743, EVT-ORD-0744, EVT-ORD-0745, EVT-ORD-0817, EVT-ORD-0818, EVT-ORD-0819, EVT-ORD-0790, EVT-ORD-0791
+
+2) PENDIENTE — FUENTE NO LOCALIZADA (no se pueden usar como hechos probados):
+   EVT-ORD-0718
+
+Instrucciones de reinicio en otra sesión
+
+1. Conserva el grafo_unificado_v158.json original sin modificar.
+2. Conserva lista_auditoria_prioritaria_v158.csv.
+3. Crea o actualiza el CSV de registro: registro_auditoria_v009.csv con las decisiones anteriores.
+4. En la nueva sesión, carga de nuevo:
+   - lista_auditoria_prioritaria_v158.csv
+   - las mismas fuentes documentales (lotes, sentencias, informes).
+   - registro_auditoria_v009.csv como guía de lo ya decidido.
+5. Comienza la auditoría desde el primer ID de la lista que no esté en registro_auditoria_v009.csv.
+
+Regla procesal clave:
+- Todo evento marcado EXCLUIR — CASO AJENO / JURISPRUDENCIA en registro_auditoria_v009.csv
+  debe quedar fuera de la cronología personal de Iñaki Loroño en futuras versiones del grafo.
+- Todo evento marcado PENDIENTE — FUENTE NO LOCALIZADA no puede usarse como hecho probado
+  hasta que se encuentre y cite su documento de origen.
