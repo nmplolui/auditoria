@@ -1,0 +1,104 @@
+﻿id_auditoria,decision,motivo,accion_v159,estado_aplicacion
+EVT-ORD-0740,EXCLUIR,caso ajeno/jurisprudencia,Excluir de cronología; conservar como jurisprudencia,Auditado en NotebookLM
+EVT-ORD-0741,EXCLUIR,caso ajeno/jurisprudencia,Excluir de cronología; conservar como jurisprudencia,Auditado en NotebookLM
+EVT-ORD-0746,EXCLUIR,caso ajeno/jurisprudencia,Excluir de cronología; conservar como jurisprudencia,Auditado en NotebookLM
+EVT-ORD-0747,EXCLUIR,caso ajeno/jurisprudencia,Excluir de cronología; conservar como jurisprudencia,Auditado en NotebookLM
+EVT-ORD-0748,EXCLUIR,caso ajeno/jurisprudencia,Excluir de cronología; conservar como jurisprudencia,Auditado en NotebookLM
+EVT-ORD-0867,REUBICAR,jurisprudencia de referencia: STC 90/1997,Mover a marco jurídico; no incluir en cronología personal,Auditado en NotebookLM
+EVT-ORD-0743,EXCLUIR,caso ajeno/jurisprudencia,Excluir de cronología; conservar como jurisprudencia,Auditado en NotebookLM
+EVT-ORD-0744,EXCLUIR,caso ajeno/jurisprudencia,Excluir de cronología; conservar como jurisprudencia,Auditado en NotebookLM
+EVT-ORD-0745,EXCLUIR,caso ajeno/jurisprudencia,Excluir de cronología; conservar como jurisprudencia,Auditado en NotebookLM
+EVT-ORD-0764,EXCLUIR,caso ajeno,Excluir de cronología,Auditado en NotebookLM
+EVT-ORD-0662,PENDIENTE,fuente no localizada,No modificar hasta localizar fuente,Auditado en NotebookLM
+EVT-ORD-0509,PENDIENTE,fuente no localizada,No modificar hasta localizar fuente,Auditado en NotebookLM
+EVT-ORD-0664,PENDIENTE,fuente no localizada,No modificar hasta localizar fuente,Auditado en NotebookLM
+EVT-ORD-0665,PENDIENTE,fuente no localizada,No modificar hasta localizar fuente,Auditado en NotebookLM
+EVT-ORD-0510,PENDIENTE,fuente no localizada; posible duplicado EVT-ORD-0572,No modificar; marcar posible duplicado,Auditado en NotebookLM
+EVT-ORD-0572,PENDIENTE,fuente no localizada; posible duplicado EVT-ORD-0510,No modificar; marcar posible duplicado,Auditado en NotebookLM
+EVT-ORD-0666,PENDIENTE,fuente no localizada,No modificar hasta localizar fuente,Auditado en NotebookLM
+EVT-ORD-0674,PENDIENTE,fuente no localizada,No modificar hasta localizar fuente,Auditado en NotebookLM
+EVT-ORD-0680,CORREGIR,declaración documentada,Sustituir por texto auditado; no tratar como hecho probado,Pendiente de aplicar
+EVT-ORD-0673,CORREGIR,declaración documentada,Eliminar “tratarlo como becario”; conservar solo lo localizado,Pendiente de aplicar
+EVT-ORD-0667,CORREGIR/FUSIONAR,duplicado probable de EVT-ORD-0823,Reformular desde informe IT; fusionar tras revisar,Pendiente de aplicar
+EVT-ORD-0663,PENDIENTE,verificación insuficiente,No confirmar plaza/fecha sin localizador,Auditado en NotebookLM
+EVT-ORD-0511,CORREGIR,declaración documentada,Sustituir por texto auditado de Abril 2013 p.10,Pendiente de aplicar
+EVT-ORD-0765,EXCLUIR,caso ajeno/jurisprudencia,Excluir de cronología; conservar como jurisprudencia,Auditado en NotebookLM
+EVT-ORD-0668,CORREGIR,declaración documentada,Sustituir por texto auditado de Abril 2013 p.10,Pendiente de aplicar
+EVT-ORD-0512,PENDIENTE,fuente no localizada,No modificar hasta localizar fuente,Auditado en NotebookLM
+EVT-ORD-0766,EXCLUIR,caso ajeno/jurisprudencia,Excluir de cronología; conservar como jurisprudencia,Auditado en NotebookLM
+EVT-ORD-0675,CORREGIR,hecho documentado en informe administrativo,Sustituir insultos por contenido del acta/informe,Pendiente de aplicar
+EVT-ORD-0513,PENDIENTE,fuente no localizada,No modificar hasta localizar fuente,Auditado en NotebookLM
+EVT-ORD-0669,CORREGIR,declaración documentada,Sustituir por texto auditado de Abril 2013 p.10,Pendiente de aplicar
+EVT-ORD-0840,REUBICAR,marco jurídico interno y alegaciones jurídicas; no es hecho autónomo cronológico,Mover a nodo de marco jurídico interno / alegaciones jurídicas; no incluir en cronología,Auditado en NotebookLM
+EVT-ORD-0634,CORREGIR,comunicación institucional documentada,Reemplazar fecha 24/03 por 23/03; conservar oferta con cita,Pendiente de aplicar
+EVT-ORD-0635,CORREGIR,declaración o alegación documentada,Reemplazar fecha 06/04 por 05/04; atribuir crítica a Loroño,Pendiente de aplicar
+EVT-ORD-0636,CORREGIR,declaración o alegación documentada,"Conservar como alegación de Loroño, no como hecho probado",Pendiente de aplicar
+EVT-ORD-0637,CORREGIR,declaración o alegación documentada,Conservar texto literal atribuido; verificar denominación exacta del departamento,Revisión manual requerida
+EVT-ORD-0638,CORREGIR,declaración o alegación documentada,Conservar como reiteración documentada de 22/06; enlazar con EVT-ORD-0637,Pendiente de aplicar
+EVT-ORD-0639,CORREGIR,comunicación institucional documentada,Conservar propuesta de reunión y ERP pendiente con cita,Pendiente de aplicar
+EVT-ORD-0655,CORREGIR,declaración o alegación documentada,"Separar del EVT-ORD-0635: mismo correo, afirmación distinta",Pendiente de aplicar
+EVT-ORD-0727,REUBICAR,norma o marco jurídico general,Mover a marco jurídico; no cronología personal,Pendiente de aplicar
+EVT-ORD-0670,CORREGIR,hecho documentado + alegación documentada,Separar votación 02/06/2011 y queja 16/06/2011; no usar “hecho probado”,Pendiente de aplicar
+EVT-ORD-0653,CORREGIR,comunicación institucional documentada,Conservar tras verificar fecha de mensaje frente a cadena,Pendiente de aplicar
+EVT-ORD-0654,CORREGIR,declaración o alegación documentada,"Atribuir expresamente a Loroño las alegaciones, incluida falsificación",Pendiente de aplicar
+EVT-ORD-0652,CORREGIR,declaración o alegación documentada,"Conservar correo 02/06/2012, atribuyendo auditoría selectiva a Loroño",Pendiente de aplicar
+EVT-ORD-0587,PENDIENTE,fuente no localizada,No aplicar hasta localizar circular original de 20/11/2012,Auditado en NotebookLM
+EVT-ORD-0514,CORREGIR,comunicación institucional + alegación documentada,Separar cierre Aldezle 14/01/2013 de alegaciones posteriores,Pendiente de aplicar
+EVT-ORD-0792,EXCLUIR,caso ajeno/norma en jurisprudencia externa,Excluir de cronología; conservar solo si se precisa referencia jurídica,Pendiente de aplicar
+EVT-ORD-0551,CONFIRMADO,"Informe BETEK 7051SM15, 11-03-2015; 25 equipos acreditados por documento original","Mantener como documento técnico existente, no como hecho probado",Auditado NotebookLM
+EVT-ORD-0618,CONFIRMADO,Resolución 14-03-2016 acredita relación definitiva de aspirantes F928,Mantener como comunicación institucional documentada,Auditado NotebookLM
+EVT-ORD-0717,CORREGIR,Solo alegación de Loroño; sin fecha completa acreditada,Atribuir a Loroño y mantener fecha 2016-XX-29,Auditado NotebookLM
+EVT-ORD-0718,PENDIENTE,Fuente de conversación 18-06-2020 no localizada,No usar hasta localizar documento directo,Auditado NotebookLM
+EVT-ORD-0719,CORREGIR,Denuncia de Loroño sobre difusión de informe médico,Atribuir expresamente a Loroño; no tratar como hecho probado,Auditado NotebookLM
+EVT-ORD-0720,CORREGIR,Denuncia de Loroño por presunta usurpación de identidad y uso GAUR,Atribuir a Loroño; no afirmar falsificación como hecho probado,Auditado NotebookLM
+EVT-ORD-0721,CORREGIR-PARCIAL,Correo 18-06-2019 y proyectos localizados; bloqueos son relato de Loroño,Atribuir proyectos y bloqueos a Loroño salvo prueba externa,Auditado NotebookLM
+EVT-ORD-0722,CONFIRMADO,Informe Ugalde 07-11-2019 acredita solicitud de incorporación voluntaria 11-07-2019 y baja 01-08-2019,Mantener con fuente médica y fecha del informe,Auditado NotebookLM
+EVT-ORD-0723,CORREGIR,Correo Loroño 21-09-2020 sobre licencia y MUFACE,Clasificar declaración documentada; no fusionar con 0724,Auditado NotebookLM
+EVT-ORD-0724,CORREGIR,Correo Loroño 14-09-2020 sobre licencia y MUFACE,Clasificar declaración documentada; no fusionar con 0723,Auditado NotebookLM
+EVT-ORD-0725,CORREGIR,Alegación de Loroño sobre plaza bilingüe de Manuel Clemente,Atribuir a Loroño; no afirmar irregularidad sin prueba de perfil y acreditación,Auditado NotebookLM
+EVT-ORD-0726,CORREGIR,Alegación de Loroño; localizador verificado en 47_ocred.txt,Clasificar declaración o alegación documentada,Auditado NotebookLM
+EVT-ORD-0755,EXCLUIR,Caso ajeno Hertz/Maribel,Excluir de cronología Loroño,Auditado NotebookLM
+EVT-ORD-0698,CORREGIR,Alegación de Loroño sobre usurpación y actas,Atribuir a Loroño; no hecho probado,Auditado NotebookLM
+EVT-ORD-0699,CORREGIR,Alegación de Loroño sobre represalias a estudiante,Atribuir a Loroño; no hecho probado,Auditado NotebookLM
+EVT-ORD-0644,CORREGIR-PARCIAL,"Cita acredita acusaciones y petición de comprobación, no trabajo externo ni ausencias",Limitar a acusaciones de Loroño,Auditado NotebookLM
+EVT-ORD-0645,CORREGIR,Alegación sobre plaza bilingüe,Atribuir a Loroño,Auditado NotebookLM
+EVT-ORD-0809,CORREGIR,Alegación en recurso 2026 sobre curso 2023-24,Atribuir a Loroño,Auditado NotebookLM
+EVT-ORD-0700,CORREGIR,Alegación de persistencia de bloqueo de accesos; sin fecha anual cerrada,Eliminar fecha 2024 cerrada,Auditado NotebookLM
+EVT-ORD-0713,CORREGIR,Alegación sobre OPE y méritos de Saiz,Atribuir a Loroño,Auditado NotebookLM
+EVT-ORD-0815,CORREGIR-PARCIAL,Mensajes acreditados 23-09-2025 y 20-02-2026,"Eliminar fecha 26-06-2025, hospitalización, escolta y cinco alumnos",Auditado NotebookLM
+EVT-ORD-0816,CORREGIR,Relato de Loroño que cita comunicaciones CPU,No tratar como confirmación autónoma,Auditado NotebookLM
+EVT-ORD-0817,EXCLUIR,Jurisprudencia externa,Excluir de cronología Loroño,Auditado NotebookLM
+EVT-ORD-0818,EXCLUIR,Jurisprudencia externa,Excluir de cronología Loroño,Auditado NotebookLM
+EVT-ORD-0819,EXCLUIR,Jurisprudencia externa,Excluir de cronología Loroño,Auditado NotebookLM
+EVT-ORD-0820,PENDIENTE,Fuente no localizada,No usar hasta localizar fuente,Auditado NotebookLM
+EVT-ORD-0821,EXCLUIR,Jurisprudencia ajena citada en resolución UPV/EHU,Excluir cronología; conservar referencia de resolución,Auditado NotebookLM
+EVT-ORD-0824,EXCLUIR,Caso García Ortiz,Excluir de cronología Loroño,Auditado NotebookLM
+EVT-ORD-0825,EXCLUIR,Caso García Ortiz,Excluir de cronología Loroño,Auditado NotebookLM
+EVT-ORD-0826,EXCLUIR,Caso García Ortiz,Excluir de cronología Loroño,Auditado NotebookLM
+EVT-ORD-0827,EXCLUIR,Caso García Ortiz,Excluir de cronología Loroño,Auditado NotebookLM
+EVT-ORD-0828,EXCLUIR,Caso García Ortiz,Excluir de cronología Loroño,Auditado NotebookLM
+EVT-ORD-0829,EXCLUIR,Caso García Ortiz,Excluir de cronología Loroño,Auditado NotebookLM
+EVT-ORD-0822,CONFIRMADO,Acto administrativo de 14-01-2022: medida cautelar de evitar coincidencia; tutorías y sustituto solo alegados posteriormente,Mantener acto administrativo documentado; separar medida literal y ejecución alegada,Auditado NotebookLM
+EVT-ORD-0823,CORREGIR-PARCIAL,ITSS 30-10-2012 dice que comportamiento de algunas personas no fue correcto; detalles del examen de 2005 son alegación de Loroño,"Atribuir a Loroño cambio de fecha, acusación, disculpa e inacción; citar valoración literal ITSS",Auditado NotebookLM
+EVT-ORD-0835,CORREGIR-PARCIAL,"resolución de 14-01-2022 acreditada; encargo a Gerenabarrena, plazo, apercibimiento y valoraciones son alegaciones de Loroño","Mantener resolución y medidas cautelares; atribuir a Loroño información reservada, falta de notificación, resultado sancionador e indefensión alegada",Auditado en NotebookLM
+EVT-ORD-0842,CONFIRMADO,solicitud de 23-06-2025 documentada; origen laboral común de IT es alegación de Loroño,Mantener como hito administrativo de inicio de expediente; atribuir a Loroño el origen laboral alegado,Auditado en NotebookLM
+EVT-ORD-0845,CONFIRMADO (COMO ALEGACIÓN),"escrito de Loroño documentado; alteración de actas, habilitaciones y contrataciones no acreditadas autónomamente",Clasificar como declaración o alegación documentada,Auditado en NotebookLM
+EVT-ORD-0846,EXCLUIR,jurisprudencia comparativa externa: STSJ Asturias 1121/2024,Excluir de cronología; conservar solo como jurisprudencia comparativa,Auditado en NotebookLM
+EVT-ORD-0847,CORREGIR-PARCIAL,informe ITSS 30-10-2012 y denuncia IP-107-2018 acreditados; instrucción sobre IT y expedientes sin respuesta son relato de Loroño,Mantener denuncia como comunicación documentada; atribuir a Loroño la interpretación de la actuación inspectora,Auditado en NotebookLM
+EVT-ORD-0850,CONFIRMADO,Sentencia 187/2022 y STSJ PV 299/2023 acreditan nulidad e indefensión material,Mantener como hecho judicial documentado; excluir imputaciones por prevaricación e intrusismo,Auditado en NotebookLM
+EVT-ORD-0851,PENDIENTE,borrador de denuncia dirigido al Rector sin justificante de registro de entrada,No usar como denuncia presentada hasta localizar justificante; conservar solo como escrito redactado,Auditado en NotebookLM
+EVT-ORD-0852,PENDIENTE,borrador de denuncia penal de 18-04-2026 sin justificante de presentación,Clasificar como escrito redactado; no consta presentación formal,Auditado en NotebookLM
+EVT-ORD-0853,PENDIENTE,borrador de reclamación AVPD sin registro de entrada; distinto de EVT-ORD-0808,Clasificar como escrito redactado; no consta presentación de esta versión específica,Auditado en NotebookLM
+EVT-ORD-0854,PENDIENTE,borrador de denuncia administrativa al Rector sin registro de entrada,Clasificar como escrito redactado; no consta presentación formal,Auditado en NotebookLM
+EVT-ORD-0855,CONFIRMADO (COMO ALEGACIÓN),escritos registrados recogen relato de Loroño sobre visita preventiva de 2021,Mantener como declaración o alegación documentada,Auditado en NotebookLM
+EVT-ORD-0856,CORREGIR-PARCIAL,periodo IT incluido en solicitud registrada 27-11-2019; diagnóstico y origen laboral son pretensión,"Atribuir periodo, diagnóstico y nexo causal al contenido de la solicitud",Auditado en NotebookLM
+EVT-ORD-0857,CORREGIR-PARCIAL,segundo periodo IT incluido en solicitud registrada 27-11-2019,Atribuir fechas y origen laboral al contenido de la solicitud,Auditado en NotebookLM
+EVT-ORD-0858,CORREGIR-PARCIAL,tercer periodo IT incluido en solicitud registrada 27-11-2019,Atribuir fechas y origen laboral al contenido de la solicitud,Auditado en NotebookLM
+EVT-ORD-0859,CORREGIR-PARCIAL,cuarto periodo IT reclamado en 2019; asistencia psiquiátrica consta separadamente,Mantener asistencia especializada acreditada; atribuir baja y nexo a la solicitud,Auditado en NotebookLM
+EVT-ORD-0860,CORREGIR-PARCIAL,quinto periodo IT en solicitud registrada de 2019; nexo laboral controvertido,Mantener periodo y solicitud; atribuir causalidad y valoración del conflicto a Loroño,Auditado en NotebookLM
+EVT-ORD-0861,CORREGIR-PARCIAL,periodo IT incluido en solicitud registrada de 23-06-2025,Atribuir diagnóstico y origen laboral al contenido de la solicitud,Auditado en NotebookLM
+EVT-ORD-0862,CORREGIR-PARCIAL,segundo periodo IT incluido en solicitud de 23-06-2025,Atribuir a Loroño la vinculación con estrés laboral,Auditado en NotebookLM
+EVT-ORD-0863,CORREGIR-PARCIAL,tercer periodo IT incluido en solicitud de 23-06-2025,Mantener relación temporal con resolución de 14-01-2022; atribuir causalidad a Loroño,Auditado en NotebookLM
+EVT-ORD-0864,CORREGIR-PARCIAL,cuarto periodo IT incluido en solicitud de 23-06-2025,Atribuir origen profesional a la pretensión del interesado,Auditado en NotebookLM
+EVT-ORD-0865,REUBICAR,jurisprudencia citada: STC 202/1999,Mover a marco jurídico; atribuir subsunción del caso a Loroño,Auditado en NotebookLM
+EVT-ORD-0866,REUBICAR,jurisprudencia citada: STC 196/2004,Mover a marco jurídico; atribuir aplicación al caso a Loroño,Auditado en NotebookLM
