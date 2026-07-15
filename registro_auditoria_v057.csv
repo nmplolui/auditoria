@@ -17,16 +17,16 @@ EVT-ORD-0510,PENDIENTE,fuente no localizada; posible duplicado EVT-ORD-0572,No m
 EVT-ORD-0572,PENDIENTE,fuente no localizada; posible duplicado EVT-ORD-0510,No modificar; marcar posible duplicado,Auditado en NotebookLM
 EVT-ORD-0666,PENDIENTE,fuente no localizada,No modificar hasta localizar fuente,Auditado en NotebookLM
 EVT-ORD-0674,PENDIENTE,fuente no localizada,No modificar hasta localizar fuente,Auditado en NotebookLM
-EVT-ORD-0680,CORREGIR,declaración documentada,Sustituir por texto auditado; no tratar como hecho probado,Pendiente de aplicar
-EVT-ORD-0673,CORREGIR,declaración documentada,Eliminar “tratarlo como becario”; conservar solo lo localizado,Pendiente de aplicar
-EVT-ORD-0667,CORREGIR/FUSIONAR,duplicado probable de EVT-ORD-0823,Reformular desde informe IT; fusionar tras revisar,Pendiente de aplicar
+EVT-ORD-0680,PENDIENTE,fuente no localizada para la habilitación profesional afirmada en 1994,No usar como hecho probado hasta localizar fuente documental,Auditado en NotebookLM — FUENTE NO LOCALIZADA
+EVT-ORD-0673,CORREGIR,declaración documentada en 16_ocred.txt p. 3,Sustituir por declaración atribuida a Loroño; fecha relativa al curso 2001/2002,Aplicado v159
+EVT-ORD-0667,CORREGIR,hecho documentado por Inspección de Trabajo; fecha 2005,Sustituir por el incidente de examen; no fusionar con incapacidad temporal,Aplicado v159
 EVT-ORD-0663,PENDIENTE,verificación insuficiente,No confirmar plaza/fecha sin localizador,Auditado en NotebookLM
-EVT-ORD-0511,CORREGIR,declaración documentada,Sustituir por texto auditado de Abril 2013 p.10,Pendiente de aplicar
+EVT-ORD-0511,CORREGIR,declaración documentada; separar cartas y entrevistas de la valoración de inacción,Sustituir por redacción atribuida a Loroño con citas de 16_ocred.txt,Aplicado v159
 EVT-ORD-0765,EXCLUIR,caso ajeno/jurisprudencia,Excluir de cronología; conservar como jurisprudencia,Auditado en NotebookLM
-EVT-ORD-0668,CORREGIR,declaración documentada,Sustituir por texto auditado de Abril 2013 p.10,Pendiente de aplicar
+EVT-ORD-0668,CORREGIR,declaración documentada en 16_ocred.txt p. 8,Sustituir por declaración atribuida a Loroño; no tratar trabas como hecho probado,Aplicado v159
 EVT-ORD-0512,PENDIENTE,fuente no localizada,No modificar hasta localizar fuente,Auditado en NotebookLM
 EVT-ORD-0766,EXCLUIR,caso ajeno/jurisprudencia,Excluir de cronología; conservar como jurisprudencia,Auditado en NotebookLM
-EVT-ORD-0675,CORREGIR,hecho documentado en informe administrativo,Sustituir insultos por contenido del acta/informe,Pendiente de aplicar
+EVT-ORD-0675,CORREGIR,declaración documentada y valoración ITSS sobre el acta de 31/03/2009,Sustituir por contenido atribuido al acta; conservar valoración literal ITSS,Aplicado v159
 EVT-ORD-0513,PENDIENTE,fuente no localizada,No modificar hasta localizar fuente,Auditado en NotebookLM
 EVT-ORD-0669,CORREGIR,declaración documentada,Sustituir por texto auditado de Abril 2013 p.10,Pendiente de aplicar
 EVT-ORD-0840,REUBICAR,marco jurídico interno y alegaciones jurídicas; no es hecho autónomo cronológico,Mover a nodo de marco jurídico interno / alegaciones jurídicas; no incluir en cronología,Auditado en NotebookLM

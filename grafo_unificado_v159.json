@@ -7565,17 +7565,19 @@
     },
     {
       "fecha": "2005-01-01",
-      "hecho": "Comienzan cartas a Unzilla pidiendo amparo, con entrevistas reiteradas. Unzilla nunca actúa para detener la situación, argumentando que es decisión del Consejo de Departamento.",
-      "tipo": "hecho_documentado",
+      "hecho": "Loroño declara que desde 2005 remitió cartas a Unzilla solicitando amparo y mantuvo entrevistas con él; atribuye a Unzilla no haber actuado para impedir que la situación continuase.",
+      "tipo": "declaracion_documentada",
       "fuente": "16_ocred.txt",
-      "lote": "Cowork_extraccion_v1",
+      "lote": "Lote_005",
       "confianza_extraccion": "alta",
       "prioridad": "alta",
       "incorporado_v8": "2026-06-22",
       "neo4j_uid": "EVT0528",
-      "correccion_v159": "Sustituir por texto auditado de Abril 2013 p.10",
+      "correccion_v159": "Distinguir la existencia relatada de cartas y entrevistas de la valoración de inacción atribuida por Loroño.",
       "motivo_correccion_v159": "declaración documentada",
-      "ref_auditoria": "EVT-ORD-0511"
+      "ref_auditoria": "EVT-ORD-0511",
+      "evidencia_literal": "\"Se suceden las cartas a Unzilla pidiendo amparo así como las entrevistas con él\"; \"nunca actuado para impedir que esto siguiera\".",
+      "nota_verificacion": "NotebookLM: Lote 005, 16_ocred.txt, pp. 8 y 16. La inacción es una valoración de Loroño."
     },
     {
       "fecha": "2007-01-01",
@@ -9337,29 +9339,34 @@
       "neo4j_uid": "EVT0683"
     },
     {
-      "fecha": "2004-01-01",
-      "hecho": "Trampa de Portillo con examen: publica fecha de examen para grupo castellano de Loroño sin avisarle. Loroño se presenta y no vienen alumnos. Portillo denuncia que Loroño no se presentó y tuvo que pone",
+      "fecha": "2005",
+      "hecho": "La Inspección de Trabajo documenta que Luis del Portillo modificó sin consentimiento la fecha de un examen final de alumnado de Loroño y posteriormente se alegó que Loroño no compareció.",
       "tipo": "hecho_documentado",
-      "fuente": "15_historico_Iñaki_Loroño_UPV_EHU_abril_2013.txt",
-      "lote": "Qwen_extraccion_v1",
+      "fuente": "225_ocred.txt; 190_ocred.txt",
+      "lote": "Lote_028; Lote_025",
       "prioridad": "alta",
       "incorporado_v10": "2026-06-23",
       "neo4j_uid": "EVT0684",
-      "reubicacion_v159": "Reformular desde informe IT; fusionar tras revisar",
-      "ref_auditoria": "EVT-ORD-0667"
+      "reubicacion_v159": "Corregido conforme a la documentación de la Inspección de Trabajo; no fusionar con eventos de incapacidad temporal.",
+      "ref_auditoria": "EVT-ORD-0667",
+      "motivo_correccion_v159": "hecho documentado por Inspección de Trabajo",
+      "evidencia_literal": "\"uno de los profesores del departamento (Luis del Portillo) en el 2005 modificó la fecha de un examen final de alumnos de Loroño sin su consentimiento acusando posteriormente a Loroño de no comparecer al examen\".",
+      "nota_verificacion": "NotebookLM: Lote 028/025, p. 4. La fuente de Inspección fecha el hecho en 2005; el histórico de Loroño lo sitúa en 2004."
     },
     {
       "fecha": "2005-09-01",
-      "hecho": "Solicitudes de traslado a Escuela de Ingenieros en plazas vacantes o jubilaciones. No aceptan peticiones o ponen condicionantes y trabas constantemente para evitar traslado.",
-      "tipo": "hecho_documentado",
-      "fuente": "15_historico_Iñaki_Loroño_UPV_EHU_abril_2013.txt",
-      "lote": "Qwen_extraccion_v1",
+      "hecho": "Loroño declara que durante varios años solicitó traslado a la Escuela de Ingenieros, en plazas vacantes o por jubilación, y que sus solicitudes no fueron aceptadas o se le impusieron condicionantes.",
+      "tipo": "declaracion_documentada",
+      "fuente": "16_ocred.txt",
+      "lote": "Lote_005",
       "prioridad": "alta",
       "incorporado_v10": "2026-06-23",
       "neo4j_uid": "EVT0685",
-      "correccion_v159": "Sustituir por texto auditado de Abril 2013 p.10",
+      "correccion_v159": "Sustituido por la declaración documental localizada; no tratar las trabas como hecho probado sin soporte adicional.",
       "motivo_correccion_v159": "declaración documentada",
-      "ref_auditoria": "EVT-ORD-0668"
+      "ref_auditoria": "EVT-ORD-0668",
+      "evidencia_literal": "\"Durante varios años intento pedir traslado a la Escuela de Ingenieros, bien en plazas vacantes o bien en las de profesores que se jubilan. No se aceptan mis peticiones o se me va poniendo condicionantes y trapas constantemente, para evitar mi traslado\".",
+      "nota_verificacion": "NotebookLM: Lote 005, 16_ocred.txt, p. 8; desde 2005."
     },
     {
       "fecha": "2010-01-01",
@@ -9414,17 +9421,19 @@
       "ref_auditoria": "EVT-ORD-0672"
     },
     {
-      "fecha": "2000-11-01",
-      "hecho": "Se incorpora a Barakaldo, Portillo pretende asignarle prácticas de sus teorías y tratarlo como becario",
-      "tipo": "hecho_documentado",
+      "fecha": "2001-09-01",
+      "hecho": "Loroño declara que, durante su primer curso en Barakaldo, Luis del Portillo pretendía tratarle como becario y le asignaba prácticas de asignaturas cuya teoría impartía.",
+      "tipo": "declaracion_documentada",
       "fuente": "16_ocred.txt",
-      "lote": "Qwen_extraccion_v1",
+      "lote": "Lote_005",
       "prioridad": "alta",
       "incorporado_v10": "2026-06-23",
       "neo4j_uid": "EVT0690",
-      "correccion_v159": "Eliminar “tratarlo como becario”; conservar solo lo localizado",
+      "correccion_v159": "Sustituido por la declaración localizada; se conserva la atribución a Loroño.",
       "motivo_correccion_v159": "declaración documentada",
-      "ref_auditoria": "EVT-ORD-0673"
+      "ref_auditoria": "EVT-ORD-0673",
+      "evidencia_literal": "\"Durante el primer curso en Barakaldo empezaron nuevamente los problemas ya que Luís del Portillo pretendía tratarme como un becario (en el peor de los sentidos) y me decía lo que tenía que hacer\".",
+      "nota_verificacion": "NotebookLM: Lote 005, 16_ocred.txt, p. 3; relativo al curso 2001/2002 tras la incorporación del 09/11/2000."
     },
     {
       "fecha": "2004-12-01",
@@ -9437,17 +9446,19 @@
       "neo4j_uid": "EVT0691"
     },
     {
-      "fecha": "2009-03-01",
-      "hecho": "Comisión Permanente del Departamento le insulta y manifiesta abiertamente que es asunto personal",
-      "tipo": "hecho_documentado",
-      "fuente": "16_ocred.txt",
-      "lote": "Qwen_extraccion_v1",
+      "fecha": "2009-03-31",
+      "hecho": "Loroño declara que en la Comisión Permanente del Consejo de Departamento se le insultó y se manifestó que el rechazo de su cambio era un asunto personal; la Inspección de Trabajo consideró que el acta reflejaba la hostilidad existente.",
+      "tipo": "declaracion_documentada",
+      "fuente": "16_ocred.txt; informe de la Inspección de Trabajo",
+      "lote": "Lote_005",
       "prioridad": "alta",
       "incorporado_v10": "2026-06-23",
       "neo4j_uid": "EVT0692",
-      "correccion_v159": "Sustituir insultos por contenido del acta/informe",
-      "motivo_correccion_v159": "hecho documentado en informe administrativo",
-      "ref_auditoria": "EVT-ORD-0675"
+      "correccion_v159": "Sustituido por el contenido atribuido al acta y la valoración literal de la Inspección de Trabajo.",
+      "motivo_correccion_v159": "declaración documentada con valoración ITSS",
+      "ref_auditoria": "EVT-ORD-0675",
+      "evidencia_literal": "\"se me insulta y se manifiesta abiertamente que se trata de un asunto personal\"; la Inspección indica que la lectura del acta es \"fiel reflejo de la hostilidad existente\".",
+      "nota_verificacion": "NotebookLM: Lote 005, 16_ocred.txt, p. 13; reunión de 31/03/2009. El contenido ofensivo se conserva como declaración de Loroño."
     },
     {
       "fecha": "2024-07-02",
@@ -9494,16 +9505,17 @@
     },
     {
       "fecha": "1994",
-      "hecho": "Loroño consigue en el estado español la habilitación profesional para ingenieros de máquinas navales, siendo el primero hace 25 años. Tarda muchos años en trasladarlo al resto de la profesión.",
-      "tipo": "hecho_documentado",
-      "fuente": "176-Transcripción literal de la entrevista con el rector-12-02-2025_ocred.txt",
-      "lote": "Qwen_extraccion_v1",
+      "hecho": "Pendiente de verificación: no se ha localizado una fuente que acredite la habilitación profesional de ingeniero de máquinas navales en 1994.",
+      "tipo": "pendiente_verificacion",
+      "fuente": "FUENTE NO LOCALIZADA",
+      "lote": "pendiente_auditoria",
       "prioridad": "alta",
       "incorporado_v10": "2026-06-23",
       "neo4j_uid": "EVT0697",
-      "correccion_v159": "Sustituir por texto auditado; no tratar como hecho probado",
-      "motivo_correccion_v159": "declaración documentada",
-      "ref_auditoria": "EVT-ORD-0680"
+      "correccion_v159": "No usar como hecho probado hasta localizar una fuente documental.",
+      "motivo_correccion_v159": "fuente no localizada",
+      "ref_auditoria": "EVT-ORD-0680",
+      "nota_verificacion": "NotebookLM: la entrevista de 2025 contiene una declaración relacionada, pero no acredita la habilitación profesional afirmada para 1994."
     },
     {
       "fecha": "2025-02-28",
